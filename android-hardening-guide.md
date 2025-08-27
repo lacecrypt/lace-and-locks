@@ -1,6 +1,7 @@
 ⋆˚✿˖° ✧･ﾟ: \*✧･ﾟ:🍄 ANDROID HARDENING GUIDE 🌻 \*:･ﾟ✧\*:･⋆˚✿˖°
 
-╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮ Firstly, I'd like to preface this by saying that
+╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮ 
+Firstly, I'd like to preface this by saying that
 no phone is 100% private or secure. Hardening is more about reducing
 your attack surface, not achieving absolute anonymity.
 
@@ -9,11 +10,12 @@ and configuration. Installing a custom OS and unlocking a bootloader can
 void warranties, may trigger carrier locks (e.g., some Verizon Pixels),
 and, if done poorly, can brick a device. Always follow the official
 install docs for your device. See the GrapheneOS and CalyxOS install
-pages for the exact commands and checks. ╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯
+pages for the exact commands and checks.
+╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯
 
-\-\--
+---
 
-\## Table of contents
+## Table of contents
 
 I. Choosing the Right Starting Point II. Bootloader and Verified Boot
 III. Device Encryption IV.Google Services V. App Store VI. Network
