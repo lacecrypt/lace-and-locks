@@ -17,8 +17,11 @@ pages for the exact commands and checks.
 
 ## Table of contents
 
-I. Choosing the Right Starting Point II. Bootloader and Verified Boot
-III. Device Encryption IV.Google Services V. App Store VI. Network
+I. Choosing the Right Starting Point
+II. Bootloader and Verified Boot
+III. Device Encryption
+IV. Google Services
+V. App Store VI. Network
 Security VII. Permissions Hygiene VIII. Profiles & Compartmentalization
 IX. Browser Hardening X. Messaging & Communication XI. Additional
 Security Practices XII.Advanced Hardening (Optional) XIII. Threat
@@ -221,15 +224,16 @@ who it is you're trying to avoid.
 
 ⊹₊ ˚‧︵‿₊୨ ♱ ୧₊‿︵‧ ˚ ₊⊹
 
-\- Are you just trying to avoid advertisers? CalyxOS and F-Droid may be
-enough. - Are you worried about government surveillance? GrapheneOS,
+- Are you just trying to avoid advertisers? CalyxOS and F-Droid may be
+enough.
+ - Are you worried about government surveillance? GrapheneOS,
 Tor, and strict compartmentalization. - Are you just trying to have
 fewer creepy trackers? Basic permission hygiene and Aurora Store.
 
 Remember, your setup be tailored to fit YOUR needs, not someone else\'s
 and not a checklist.
 
-\-\--
+---
 
 .𖥔 ݁ ˖ ✦ ‧₊˚ ⋅
 
