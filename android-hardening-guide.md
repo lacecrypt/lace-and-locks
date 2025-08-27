@@ -49,14 +49,14 @@ Pixel if you can.
 
 .☘︎ ݁˖ Options:
 
-* Overall BEST for security: GrapheneOS - It has a minimal attack
+* Overall BEST for security: **GrapheneOS** - It has a minimal attack
 surface, a hardened kernel, and is actively maintained by a very small
 but extremely skilled dev team. However, there are much fewer
 conveniences, and some apps may not work perfectly.
-* Best for balance (privacy and usability): CalyxOS - Much friendlier for beginners, comes
+* Best for balance (privacy and usability): **CalyxOS** - Much friendlier for beginners, comes
 with microG (so you can still run most apps that need Google services),
 but slightly less hardened than Graphene.
-* Other option: LineageOS - Highly customizable, but not hardened out of the box and requires
+* Other option: **LineageOS** - Highly customizable, but not hardened out of the box and requires
 additional steps to lock down.
 
 Pick your OS. If you're serious about hardening, go Graphene. If you
@@ -97,10 +97,10 @@ diceware list) are vastly stronger than a 6-digit PIN.
 This generally depends
 on your OS choice.
 
-* GrapheneOS: You can run Google services in a sandbox (separate
+* **GrapheneOS**: You can run Google services in a sandbox (separate
 profile), which prevents them from having system-level privileges.
 However, if you don't need them just skip them entirely.
-* CalyxOS: Comes with microG (open-source replacement for Google Play Services).
+* **CalyxOS**: Comes with microG (open-source replacement for Google Play Services).
 This allows apps that need Google APIs (e.g., push notifications, maps,
 banking apps) to work while still keeping tracking minimal.
 
@@ -115,12 +115,12 @@ entirely, how am I going to get my apps?" Well, there are a few options.
 
 .☘︎ ݁˖
 
-* F-Droid: Your best bet, however, it only has open-source apps. Great
+* **F-Droid**: Your best bet, however, it only has open-source apps. Great
 resource for privacy-friendly tools.
-* Aurora Store: Lets you anonymously download apps from Google Play without a Google account (can
+* **Aurora Store**: Lets you anonymously download apps from Google Play without a Google account (can
 be quite buggy, but if you retry installing the same app it'll
-eventually work). 
-* GrapheneOS Apps Repo: Preinstalled apps vetted by
+eventually work. Not the app itself at fault, it's Google). 
+* **GrapheneOS Apps Repo**: Preinstalled apps vetted by
 the Graphene devs.
 
 I personally recommend F-Droid as your primary source and using Aurora
@@ -130,14 +130,14 @@ only for unavoidable apps.
 
 ## VI. Network Security
 
-* VPN: Only use this if you need to hide traffic from your ISP or local
+* **VPN**: Only use this if you need to hide traffic from your ISP or local
 network. A common misconception is that a VPN makes you anonymous, it
 doesn't. Use a trustworthy, no-log provider. I don't recommend free
 VPNS, they sell data. Only exception to this would be ProtonVPN, but the
-free version isn't the best. My favorites are NordVPN and Mullvad. -
-* Tor: Use Orbot or the Tor Browser for sensitive browsing. Slower, but
+free version isn't the best. My favorites are NordVPN and Mullvad. 
+* **Tor**: Use Orbot or the Tor Browser for sensitive browsing. Slower, but
 private.
-* Private DNS: Go to Settings ➳ Network & internet ➳ Private
+* **Private DNS**: Go to Settings ➳ Network & internet ➳ Private
 DNS. Use providers like Quad9 (9.9.9.9), Mullvad DNS, or NextDNS.
 
 The easiest step is to set a Private DNS provider now. That's free
@@ -187,11 +187,11 @@ one for apps that you don't trust.
 There are many different choices when it comes
 to browsers. I'll list a few I've tried and reccommend.
 
-* Brave Browser: Hardened chromium, requires a little configuration but
+* **Brave Browser**: Hardened chromium, requires a little configuration but
 overall a solid choice.
-* Vanadium (GrapheneOS): Hardened Chromium
+* **Vanadium (GrapheneOS)**: Hardened Chromium
 maintained by Graphene devs.
-* Firefox (with uBlock Origin): Solid
+* **Firefox (with uBlock Origin)**: Solid
 option, especially if you configure privacy.resistFingerprinting.
 
 I'd pick either Vanadium (if on Graphene) or hardened Firefox. Install
@@ -203,11 +203,11 @@ uBlock Origin and disable WebRTC leaks.
 
 .☘︎ ݁˖
 
-* Signal: Best balance of security and usability. Strong encryption,
+* **Signal**: Best balance of security and usability. Strong encryption,
 but does require a working phone number.
-* Session: Decentralized,
+* **Session**: Decentralized,
 doesn't require a number, but slower.
-* Element (Matrix): Good for
+* **Element (Matrix)**: Good for
 communities and federated chat.
 
 I'd recommend using Signal for your main comms. If you need more
@@ -236,7 +236,7 @@ harder with a passphrase).
 
 𓂃 ࣪˖ ִֶָ⋅ᡣ𐭩 ་༘࿐
 
-* Firewall: Use RethinkDNS + Firewall OR NetGuard to block background
+* Firewall: Use **RethinkDNS + Firewall** OR **NetGuard** to block background
 connections.
 * GrapheneOS has a per-app network and sensor permission
 toggle. Use it.
@@ -259,14 +259,15 @@ Tor, and strict compartmentalization.
 * Are you just trying to have
 fewer creepy trackers? Basic permission hygiene and Aurora Store.
 
-Remember, your setup be tailored to fit YOUR needs, not someone else\'s
+Remember, your setup be tailored to fit YOUR needs, not someone else's
 and not a checklist.
 
 ---
 
 .𖥔 ݁ ˖ ✦ ‧₊˚ ⋅
 
-(｡˃ ᵕ ˂ )੭♡ Hardening your Android device isn't just a one-and-done
+(｡˃ ᵕ ˂ )੭♡ 
+Hardening your Android device isn't just a one-and-done
 thing. It's a habit. Stay curious, you should be constantly reviewing
 permissions, questioning every app you install, and staying updated.
 Remember: convenience is always the enemy of security. Balance wisely.
