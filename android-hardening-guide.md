@@ -266,7 +266,6 @@ and not a checklist.
 
 .𖥔 ݁ ˖ ✦ ‧₊˚ ⋅
 
-(｡˃ ᵕ ˂ )੭♡ 
 Hardening your Android device isn't just a one-and-done
 thing. It's a habit. Stay curious, you should be constantly reviewing
 permissions, questioning every app you install, and staying updated.
