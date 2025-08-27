@@ -1,6 +1,7 @@
 ⋆˚✿˖° ✧･ﾟ: \*✧･ﾟ:🍄 ANDROID HARDENING GUIDE 🌻 \*:･ﾟ✧\*:･⋆˚✿˖°
+---
 
-╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮ 
+
 Firstly, I'd like to preface this by saying that
 no phone is 100% private or secure. Hardening is more about reducing
 your attack surface, not achieving absolute anonymity.
@@ -11,7 +12,6 @@ void warranties, may trigger carrier locks (e.g., some Verizon Pixels),
 and, if done poorly, can brick a device. Always follow the official
 install docs for your device. See the GrapheneOS and CalyxOS install
 pages for the exact commands and checks.
-╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯
 
 ---
 
@@ -24,9 +24,9 @@ IX. Browser Hardening X. Messaging & Communication XI. Additional
 Security Practices XII.Advanced Hardening (Optional) XIII. Threat
 Modeling XIV. Conclusion/Maintaining Security Habits
 
-\-\--
+---
 
-\## 1. Choosing the Right Starting Point First off, your operating
+## 1. Choosing the Right Starting Point First off, your operating
 system choice matters more than anything else. Stock Android (the one
 that comes preinstalled by Google, Samsung, Oneplus, etc.) is convenient
 but packed with trackers, unnecessary preinstalled apps (bloatware), and
