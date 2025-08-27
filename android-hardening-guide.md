@@ -17,15 +17,20 @@ pages for the exact commands and checks.
 
 ## Table of contents
 
-I. Choosing the Right Starting Point
-II. Bootloader and Verified Boot
-III. Device Encryption
-IV. Google Services
-V. App Store VI. Network
-Security VII. Permissions Hygiene VIII. Profiles & Compartmentalization
-IX. Browser Hardening X. Messaging & Communication XI. Additional
-Security Practices XII.Advanced Hardening (Optional) XIII. Threat
-Modeling XIV. Conclusion/Maintaining Security Habits
+* I. Choosing the Right Starting Point
+* II. Bootloader and Verified Boot
+* III. Device Encryption
+* IV. Google Services
+* V. App Store 
+* VI. Network Security
+* VII. Permissions Hygiene
+* VIII. Profiles & Compartmentalization
+* IX. Browser Hardening
+* X. Messaging & Communication
+* XI. Additional Security Practices
+* XII. Advanced Hardening (Optional)
+* XIII. Threat Modeling
+* XIV. Conclusion/Maintaining Security Habits
 
 ---
 
