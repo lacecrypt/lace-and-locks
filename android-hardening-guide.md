@@ -34,8 +34,9 @@ pages for the exact commands and checks.
 
 ---
 
-## 1. Choosing the Right Starting Point First off, your operating
-system choice matters more than anything else. Stock Android (the one
+## 1. Choosing the Right Starting Point
+
+First off, your operating system choice matters more than anything else. Stock Android (the one
 that comes preinstalled by Google, Samsung, Oneplus, etc.) is convenient
 but packed with trackers, unnecessary preinstalled apps (bloatware), and
 deep Google integration. If you're serious about privacy and control,
@@ -48,33 +49,36 @@ Pixel if you can.
 
 .☘︎ ݁˖ Options:
 
-\- Overall BEST for security: GrapheneOS - It has a minimal attack
+* Overall BEST for security: GrapheneOS - It has a minimal attack
 surface, a hardened kernel, and is actively maintained by a very small
 but extremely skilled dev team. However, there are much fewer
-conveniences, and some apps may not work perfectly. - Best for balance
-(privacy and usability): CalyxOS - Much friendlier for beginners, comes
+conveniences, and some apps may not work perfectly.
+* Best for balance (privacy and usability): CalyxOS - Much friendlier for beginners, comes
 with microG (so you can still run most apps that need Google services),
-but slightly less hardened than Graphene. - Other option: LineageOS -
-Highly customizable, but not hardened out of the box and requires
+but slightly less hardened than Graphene.
+* Other option: LineageOS - Highly customizable, but not hardened out of the box and requires
 additional steps to lock down.
 
 Pick your OS. If you're serious about hardening, go Graphene. If you
 want something that you can daily-drive without too many compromises, go
 Calyx.
 
-\-\--
+---
 
-\## 2. Bootloader and Verified Boot When you install a custom OS, you'll
+## 2. Bootloader and Verified Boot
+When you install a custom OS, you'll
 need to unlock your bootloader. That's a major security risk if you
 leave it unlocked.
 
-\- After flashing your OS, relock the bootloader. This ensures verified
-boot and prevents malicious tampering. - On GrapheneOS, relocking is
+* After flashing your OS, relock the bootloader. This ensures verified
+boot and prevents malicious tampering.
+* On GrapheneOS, relocking is
 easy and encouraged. On Calyx, the same applies.
 
-\-\--
+---
 
-\## 3. Device Encryption Most modern Android phones come encrypted by
+## 3. Device Encryption
+Most modern Android phones come encrypted by
 default, but it's worth double-checking.
 
 .☘︎ ݁˖
